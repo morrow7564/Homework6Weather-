@@ -1,0 +1,23 @@
+.jumbotron{
+    text-align: center;
+    background-color:lightskyblue;
+    color: white;
+    font-weight: bold;
+    margin: 1em;
+}
+.submit {
+    margin: 1em;
+    color: lightskyblue;
+  }
+
+  .search{
+    margin: 1em;
+  }
+
+  .weatherForm {
+    border-radius: 20px 20px 20px 20px;
+    margin-left: 30em;
+  }
+  .weatherForm h1 {
+    text-align: center;
+  }
