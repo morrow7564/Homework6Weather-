@@ -29,6 +29,11 @@ SO THAT I can plan a trip accordingly
 
 Go to [Weather App](https://morrow7564.github.io/Weatherapp/) 
 
+
+## Technologies
+* JavaScript
+* jQuery
+
 ## Licence
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
