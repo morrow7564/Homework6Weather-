@@ -15,7 +15,7 @@ SO THAT I can plan a trip accordingly
 
 ### App screenshot
 
-![AppPhoto](./Assets/image.png)   
+![AppPhoto](./Assests/image.png)   
 
 ## Table of contents
 
